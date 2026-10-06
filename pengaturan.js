@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "Elevarpic",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAXFPhk3GcmpEdMrnvqFmMVADRE5AywuNo",
     whatsappAdmin: "6282336604520" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
